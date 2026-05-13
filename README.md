@@ -11,7 +11,8 @@
 ......d
 ## 🚀 تنظیمات اولیه (یک بار انجام بده)
 sس
-### ۱. این ریپو رو فورک کن
+### ۱. این ریپو روd
+
 ### ۲. برو به *dsa*Settings → Actions → General**
 ### ۳. در بخش **Workflow permissions** گزینه **Read and write permissions** رو انتخاب کن و **Save** رو بزن.
 ### ۴. ساخت Secret برایs)
