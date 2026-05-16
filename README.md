@@ -12,7 +12,7 @@
 ## 🚀 تنظیمات اولیه (یک بار انجام بده)
 sdس
 ### ۱. این ریپو رd
-d
+d.
 
 ### ۲. برو به *dsa*Settings → Actions → General**
 ### ۳. در بخش **Workflow permissions** گزینه **Read and write permissions** رو انتخاب کن و **Save** رو بزن.
