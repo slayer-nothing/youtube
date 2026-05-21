@@ -8,7 +8,7 @@ s# 📥 دانلود ویدیو از یوتیوب با GitHub Actions
 > برای دیدن لیست ویدیوها احتمالاً نیاز به فیلترشکن داری، ولی پیشنهاد من اینه که از پروژه [MITM-DomainFronting]d(https://github.com/patterniha/MITM-DomainFronting) استفاده کنی تا بدون فیلترشکن هم بتونی به یوتیوب دسترسی داشته باشیs
 > .f
 
-<br><br>d.s
+<br><br>d.ss
 ......d
 ## 🚀 تنظیمات اولیه .یک ب.2
 sddس
