@@ -16,7 +16,7 @@ sddسد
 d.
 2..
 ### ۲. برو به *dsa*Settings → Actions → General**
-### ۳. در بخش **Workflow permissions** گزینه **Read and write permissions** رو انتخاب کن و **Save** رو بزن.
+### ۳. در بخش **Workflow permissions** گزینه **Read and write permissiouns** رو انتخاب کن و **Save** رو بزن.
 ### ۴. ساخت Secret برایs)
 .s
 یوتیوب ربات‌ها رو تشخیص می‌ده، برای همین باید خودمون رو مثل یه کاربر واقعی نشون بدیم0.
